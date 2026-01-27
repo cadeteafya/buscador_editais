@@ -1,4 +1,4 @@
-const DATA_URL = "../data/editais_min.json";
+const DATA_URL = "data/editais_min.json";
 const PER_PAGE = 10;
 
 const grid = document.getElementById("grid");
